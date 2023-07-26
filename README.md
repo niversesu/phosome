@@ -9,6 +9,6 @@ Cat1, cat2, cat3, cat4, etc, cat1 get's combined first, and then cat2, you can c
 
 When you place an audio in the music folder, they will be combined based on their number, such as: music1, music2, etc.
 
-And when you place an image in the thumbnails folder it'll automatically place it in the bottom right place of the screen when you make the video.
+And when you place an image in the picture folder it'll automatically place it in the bottom right place of the screen when you make the video.
 
 gui-entrys is not finished yet, but that's fine, if you wanna use this chunk of code, you're gonna have to at least see the comments in defmovie and gui4python.
